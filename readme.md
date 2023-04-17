@@ -1,53 +1,20 @@
 
 # Intro
-- project name: **bilibili-analysis-tool**
-- description: I **offer the data**, anyone can use it to do **their own analysis**
+- project name: bilibili data
+- description: I offer bilibili data as service, anyone can use it to do their own analysis
 
 # Examples
-![placeholder](https://cdn.octoplusmedia.com/wp-content/uploads/2022/08/bilibili-2-768x294.png)
-
+![placeholder](https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png)
 
 # Basic usage
 ```curl curl
+# request this url to view help information
 curl https://bilibili.gkxk2.link
-
-# return: 
-# {
-# 	"status": "ok",
-#	"data": {
-#		"doc": {
-#			"tutorial": "https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/turorial.md",
-#			"api": "https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/api.md",
-#			"contribute": "https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/contribute.md"
-#		}
-#	}
-# }
 ```
 
-checkout [turorial](https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/turorial.md) and [api](https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/api.md) for details
-
-
-
 # Links
-- [turorial](https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/turorial.md)
-- [api](https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/api.md)
-- [contribute](https://github.com/gkxk/bilibili-analysis-tool/blob/main/docs/contribute.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [turorial](https://github.com/gkxk/bilibili_data/blob/main/docs/tutorial.md)
+- [api](https://github.com/gkxk/bilibili_data/blob/main/docs/api.md)
+- [contribute](https://github.com/gkxk/bilibili_data/blob/main/docs/contribute.md)
 
 
