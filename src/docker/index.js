@@ -28,8 +28,8 @@ const puppeteer = require('puppeteer');
   // console.log('The title of this blog post is "%s".', fullTitle);
 
   // 进入 https://www.zhihu.com/ , 并保存截图
-  await page.goto('https://www.zhihu.com/');
-  await page.screenshot({path: 'zhihu.png'});
+  await page.goto('https://space.bilibili.com/19886758');
+  await page.screenshot({path: 'bilibili.png'});
 
   await browser.close();
 })();
