@@ -1,12 +1,12 @@
 ![placeholder](https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png)
 
-
-
-- [web tools(demo)](https://gkxk.github.io/app/bilibili)
+- [web tools](https://gkxk.github.io/app/bilibili)
 - [api doc](https://gkxk.github.io/2023/05/09/public/bilibili%20api)
 
 
-# 1. api功能
+
+
+<!-- # 1. api功能
 ## 1.1. 收到cv号
 | 返回值   | 说明                                                    |
 | -------- | ------------------------------------------------------- |
@@ -26,7 +26,7 @@
 | 返回值   | 说明                                                    |
 | -------- | ------------------------------------------------------- |
 | 视频信息 |                                                         |
-| 评论区   | 昵称, uid, 头像, 评论次数, 评论内容列表. (均为可选参数) |
+| 评论区   | 昵称, uid, 头像, 评论次数, 评论内容列表. (均为可选参数) | -->
 
 
 
