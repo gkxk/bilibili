@@ -8,7 +8,7 @@
 <!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%"></img> -->
 
 
-- [live tool](https://gkxk.github.io/app/bilibili)
+- [live tool](https://gkxk.github.io/app/bilibili/profile_generator)
 
 <!-- ![placeholder](https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png)
 
