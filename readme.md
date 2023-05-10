@@ -1,8 +1,27 @@
-![placeholder](https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png)
+> 关于bilibili数据的采集/分析/展示的相关代码存档
 
-- [web tools](https://gkxk.github.io/app/bilibili)
+# 1. profile generator
+> 输入用户id, 生成用户信息卡片
+
+![](https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png)
+
+<!-- <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_gkxk.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_114514.png" width="30%"></img> <img src="https://d2ekywz288hemq.cloudfront.net/im/bilibili_profile/bilibili_profile_海州拌饭.png" width="30%"></img> -->
+
+
+- [live tool](https://gkxk.github.io/app/bilibili)
+
+<!-- ![placeholder](https://d2ekywz288hemq.cloudfront.net/im/bilibili_data_placeholder.png)
+
 - [api doc](https://gkxk.github.io/2023/05/09/public/bilibili%20api)
 
+<br>
+
+- todo:
+	- [ ] 生成更多的jpg分析结果用于宣传/展示
+	- [ ] 接入更多的b站api
+		- 比如搜索
+	- [ ] 海报生成要能自定义theme
+	- [ ] 整套架构要重构下/规整下 -->
 
 
 
